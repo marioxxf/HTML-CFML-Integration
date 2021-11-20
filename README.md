@@ -1,5 +1,5 @@
 <h1>HTML-CFML integration</h1>
-<p>HTML + ColdFusion short application.</h2>
+<p>HTML (JQuery, Bootstrap and JavaScript) + ColdFusion short application.</h2>
 <h2>Images</h1>
 
 ![alt tag](https://i.imgur.com/gbPGrJB.png)
